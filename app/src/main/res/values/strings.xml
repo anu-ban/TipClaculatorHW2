@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tip Claculator</string>
+    <string name="enter_bill">Enter Bill</string>
+    <string name="_9_10_20">9 10 20 %</string>
+    <string name="enter_tip">Enter Tip %</string>
+    <string name="tip_total">Tip Total</string>
+    <string name="bill_total">Bill Total</string>
+    <string name="calculater_total">Calculater Total</string>
+</resources>
